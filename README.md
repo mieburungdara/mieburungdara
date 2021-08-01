@@ -28,6 +28,6 @@ You can click the Preview link to take a look at your changes.
 [![Mieburungdara Stats](https://github-readme-stats.vercel.app/api?username=mieburungdara&show_icons=true&theme=cobalt)](https://github.com/mieburungdara)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mieburungdara&repo=mieburungdara)](https://github.com/mieburungdara/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mieburungdara&repo=mieburungdara&theme=cobalt)](https://github.com/mieburungdara/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mieburungdara)](https://github.com/mieburungdara/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mieburungdara&theme=cobalt)](https://github.com/mieburungdara/)
