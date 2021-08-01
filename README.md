@@ -14,8 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-**X-Noid**
-
+**Mieburungdara**
 [![Mieburungdara TG](https://img.shields.io/badge/mieburungdara-30302f?style=flat&logo=telegram)](https://t.me/mieburungdara)
 
 ---
@@ -26,4 +25,4 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-[![Mieburungdara Stats](https://github-readme-stats.vercel.app/api?username=mieburungdara&show_icons=true&title_color=fff&icon_color=ff00cc&text_color=9f9f9f&bg_color=151515)](https://github.com/mieburungdara)
+[![Mieburungdara Stats](https://github-readme-stats.vercel.app/api?username=mieburungdara&show_icons=true&theme=cobalt)](https://github.com/mieburungdara)
