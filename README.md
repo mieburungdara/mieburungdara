@@ -11,3 +11,19 @@ https://yhype.me/
 mieburungdara/mieburungdara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
+**X-Noid**
+
+[![Mieburungdara TG](https://img.shields.io/badge/mieburungdara-30302f?style=flat&logo=telegram)](https://t.me/mieburungdara)
+
+---
+
+**Known Languages:**
+
+[![Python](https://img.shields.io/badge/-Python-%232c3e50?style=flat-square&logo=python)](https://python.org)
+
+---
+
+[![Mieburungdara Stats](https://github-readme-stats.vercel.app/api?username=mieburungdara&show_icons=true&title_color=fff&icon_color=ff00cc&text_color=9f9f9f&bg_color=151515)](https://github.com/mieburungdara)
